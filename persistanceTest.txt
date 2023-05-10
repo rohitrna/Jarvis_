@@ -1,0 +1,2 @@
+FILE *fd = fopen("persistance.py", "r");
+PyRun_SimpleFileEx(fd, "persistance.py", 1);

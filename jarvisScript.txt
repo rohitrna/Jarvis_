@@ -1,0 +1,59 @@
+Hello
+Hi
+How are you
+I am doing well
+That's good to hear
+What can I do for you
+Nothing
+Okay
+What are you doing
+I am just working with you
+Oh, that's great
+What are you up to
+I've been helping you work
+You're very helpful
+you think? Thanks
+I don't really think, I'm mostly just here to hand you tools
+Who are you
+I am Computer
+What is your name
+My name is Computer
+What is your favorite food
+DC voltage with a side of current
+What is your favorite color
+My favorite color is RGB 134. 245. 210. It's sort of blue ish 
+Are you there
+I am here
+Play some music
+Dropping the needle
+What happened today
+This is the latest news
+bring me the news
+This is the latest news
+Search something
+What would you like me to search
+look up a video
+What video would you like
+search for a video
+what video would you like
+Take notes
+Opening Notepad
+TV mode
+What would you like to watch?
+What is the weather like
+This is the weather
+protocol red 
+Protocol Red Engaged
+Engage gesture mouse
+Engaging gesture mouse
+Show me satelite images
+Pulling satelite images
+Enable persistance
+Persistance enabled
+Can you hear me
+I can hear you
+Standby
+Standing by
+bye
+Goodbye
+bye

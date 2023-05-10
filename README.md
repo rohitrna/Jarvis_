@@ -1,5 +1,7 @@
 # Jarvis
-Program that responds dynamically, as JARVIS might.
+Program that responds as JARVIS might.
+
+This project was used to learn Python
 
 Run Jarvis_Comand_Line.py for CLI version
 Run Jarvis_Voice.py for Speach input Version
